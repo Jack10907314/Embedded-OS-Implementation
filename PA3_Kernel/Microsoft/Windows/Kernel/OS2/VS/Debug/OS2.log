@@ -1,0 +1,6 @@
+﻿  os_core.c
+C:\Users\You-Quan\Desktop\嵌入式系統實習\PA3\Micrium_Win32_Kernel(PA3)\Micrium_Win32_Kernel\Micrium\Software\uCOS-II\Source\os_core.c(2234,1): warning C4029: 在函式宣告和函式定義中的型式參數清單不同
+  os_mutex.c
+  os_time.c
+  正在產生程式碼...
+  OS2.vcxproj -> C:\Users\You-Quan\Desktop\嵌入式系統實習\PA3\Micrium_Win32_Kernel(PA3)\Micrium_Win32_Kernel\Microsoft\Windows\Kernel\OS2\VS\Debug\OS2.exe

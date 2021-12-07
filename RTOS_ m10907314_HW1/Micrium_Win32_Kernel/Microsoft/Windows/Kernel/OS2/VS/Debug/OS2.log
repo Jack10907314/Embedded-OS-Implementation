@@ -1,0 +1,5 @@
+﻿  os_core.c
+  main.c
+C:\Users\You-Quan\Downloads\Micrium_Win32_Kernel\Microsoft\Windows\Kernel\OS2\main.c(97,17): warning C4101: 'os_err': 未參考的區域變數
+  正在產生程式碼...
+  OS2.vcxproj -> C:\Users\You-Quan\Downloads\Micrium_Win32_Kernel\Microsoft\Windows\Kernel\OS2\VS\Debug\OS2.exe

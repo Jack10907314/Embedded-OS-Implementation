@@ -1,0 +1,3 @@
+﻿  os_core.c
+C:\Users\pk332\Downloads\Micrium_Win32_Kernel(HW2_4)\Micrium_Win32_Kernel\Micrium\Software\uCOS-II\Source\os_core.c(2138,1): warning C4029: 在函式宣告和函式定義中的型式參數清單不同
+  OS2.vcxproj -> C:\Users\pk332\Downloads\Micrium_Win32_Kernel(HW2_4)\Micrium_Win32_Kernel\Microsoft\Windows\Kernel\OS2\VS\Debug\OS2.exe

@@ -1,0 +1,8 @@
+﻿  os_core.c
+C:\Users\You-Quan\Desktop\嵌入式系統實習\Micrium_Win32_Kernel(no sorting)-6\Micrium_Win32_Kernel(no sorting)\Micrium_Win32_Kernel(HW2_4)\Micrium_Win32_Kernel\Micrium\Software\uCOS-II\Source\os_core.c(2378,1): warning C4029: 在函式宣告和函式定義中的型式參數清單不同
+C:\Users\You-Quan\Desktop\嵌入式系統實習\Micrium_Win32_Kernel(no sorting)-6\Micrium_Win32_Kernel(no sorting)\Micrium_Win32_Kernel(HW2_4)\Micrium_Win32_Kernel\Micrium\Software\uCOS-II\Source\os_core.c(2401,52): warning C4047: '=': 'INT32U *' 與 'INT32U **' 間接取值的層級不同
+C:\Users\You-Quan\Desktop\嵌入式系統實習\Micrium_Win32_Kernel(no sorting)-6\Micrium_Win32_Kernel(no sorting)\Micrium_Win32_Kernel(HW2_4)\Micrium_Win32_Kernel\Micrium\Software\uCOS-II\Source\os_core.c(2402,56): warning C4047: '=': 'INT32U *' 與 'INT32U **' 間接取值的層級不同
+C:\Users\You-Quan\Desktop\嵌入式系統實習\Micrium_Win32_Kernel(no sorting)-6\Micrium_Win32_Kernel(no sorting)\Micrium_Win32_Kernel(HW2_4)\Micrium_Win32_Kernel\Micrium\Software\uCOS-II\Source\os_core.c(2403,54): warning C4047: '=': 'INT32U *' 與 'INT32U **' 間接取值的層級不同
+  os_time.c
+  正在產生程式碼...
+  OS2.vcxproj -> C:\Users\You-Quan\Desktop\嵌入式系統實習\Micrium_Win32_Kernel(no sorting)-6\Micrium_Win32_Kernel(no sorting)\Micrium_Win32_Kernel(HW2_4)\Micrium_Win32_Kernel\Microsoft\Windows\Kernel\OS2\VS\Debug\OS2.exe

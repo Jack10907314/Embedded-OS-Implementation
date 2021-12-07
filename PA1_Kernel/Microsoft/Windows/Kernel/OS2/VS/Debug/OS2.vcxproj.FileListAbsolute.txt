@@ -1,0 +1,14 @@
+C:\Users\RB508\Downloads\Micrium_Win32_Kernel\Microsoft\Windows\Kernel\OS2\VS\Debug\OS2.exe
+C:\Users\RB508\Downloads\Micrium_Win32_Kernel\Microsoft\Windows\Kernel\OS2\VS\Debug\OS2.pdb
+C:\Users\You-Quan\Downloads\Micrium_Win32_Kernel\Microsoft\Windows\Kernel\OS2\VS\Debug\OS2.exe
+C:\Users\You-Quan\Downloads\Micrium_Win32_Kernel\Microsoft\Windows\Kernel\OS2\VS\Debug\OS2.pdb
+C:\Users\You-Quan\Desktop\嵌入式\Micrium_Win32_Kernel\Microsoft\Windows\Kernel\OS2\VS\Debug\OS2.exe
+C:\Users\You-Quan\Desktop\嵌入式\Micrium_Win32_Kernel\Microsoft\Windows\Kernel\OS2\VS\Debug\OS2.pdb
+C:\Users\pk332\Downloads\Micrium_Win32_Kernel\Microsoft\Windows\Kernel\OS2\VS\Debug\OS2.exe
+C:\Users\pk332\Downloads\Micrium_Win32_Kernel\Microsoft\Windows\Kernel\OS2\VS\Debug\OS2.pdb
+C:\Users\You-Quan\Desktop\嵌入式\Micrium_Win32_Kernel(HW2_3)\Micrium_Win32_Kernel\Microsoft\Windows\Kernel\OS2\VS\Debug\OS2.exe
+C:\Users\You-Quan\Desktop\嵌入式\Micrium_Win32_Kernel(HW2_3)\Micrium_Win32_Kernel\Microsoft\Windows\Kernel\OS2\VS\Debug\OS2.pdb
+C:\Users\You-Quan\Desktop\嵌入式\Micrium_Win32_Kernel(HW2_4)\Micrium_Win32_Kernel\Microsoft\Windows\Kernel\OS2\VS\Debug\OS2.exe
+C:\Users\You-Quan\Desktop\嵌入式\Micrium_Win32_Kernel(HW2_4)\Micrium_Win32_Kernel\Microsoft\Windows\Kernel\OS2\VS\Debug\OS2.pdb
+C:\Users\pk332\Downloads\Micrium_Win32_Kernel(HW2_4)\Micrium_Win32_Kernel\Microsoft\Windows\Kernel\OS2\VS\Debug\OS2.exe
+C:\Users\pk332\Downloads\Micrium_Win32_Kernel(HW2_4)\Micrium_Win32_Kernel\Microsoft\Windows\Kernel\OS2\VS\Debug\OS2.pdb
